@@ -2,7 +2,7 @@
 //  main.c
 //  fizz buzz
 //
-//  Created by Zechariah Yue on 8/27/20.
+//  Created by Zechariah Yue on 10/14/20.
 //  Copyright © 2020 Zechariah Yue. All rights reserved.
 //
 
